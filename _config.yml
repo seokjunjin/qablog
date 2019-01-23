@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Data Storyteller"
+title: "Devsisters QA blog"
 description: > # this means to ignore newlines until "email:"
-   Dreamgonfly's blog
+   Devsisters QA blog
 
-email: dreamgonfly@gmail.com
+email: seokjun.jin@devsisters.com
 #blog logo
 logo: "/assets/images/dragonfly_moon.jpg"
 float_logo: false # true, false (default)
@@ -25,12 +25,12 @@ paginate:	5
 url: "https://seokjunjin.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dreamgonfly'
+twitter_handle: '@bbjoony'
 
 #fill in disqus shortname to use disqus
-disqus: dreamgonfly-blog
+disqus: Devsisters QA blog
 
-google_analytics: UA-91026007-2
+#google_analytics: UA-91026007-2
 
 # social icons and sharing options
 social:
